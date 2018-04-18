@@ -1,1 +1,2 @@
 content of file 6
+edit file 6 in develop branch
